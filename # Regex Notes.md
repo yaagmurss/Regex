@@ -6,7 +6,7 @@
  . [ { ( ) \ ^ $ | ? * + 
 
 - If we want to find MetaCharacters like “.”
-- We need **escape character** “\.”
+- We need **escape character** “\\.”
 
 
 
