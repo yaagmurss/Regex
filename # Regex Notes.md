@@ -50,7 +50,7 @@
 
 - **[]** Matches caharacter in brackets
 
-- **[^]** Matches caharacter in brackets
+- **[^]** Matches caharacter not in brackets
 
 - **|** Either Or
 
